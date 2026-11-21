@@ -15,6 +15,7 @@ Build a website that anyone in the world can open from a link. The page has one 
 ## Rules
 
 - No AI tools: no ChatGPT, Claude, Copilot, or anything similar.
+- No frameworks: only plain JavaScript, HTML and CSS.
 - Google, YouTube, tutorials, and forums are all allowed.
 - Visitors should not have to sign up or log in.
 - It can be free. You shouldn't need to pay for anything.
