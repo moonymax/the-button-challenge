@@ -28,6 +28,9 @@ Build a website that anyone in the world can open from a link. The page has one 
 
 ## Hints for the very beginners
 
-1. **Split up the problem.** Create the button first, and then make it so that other people interact with the "same" button.
-2. **Make it publicly accessible.**
-3. **Make it count each device only once.**
+**Split up the problem** into these steps:
+
+1. **Create the button.**
+2. **Make it so that other people interact with the "same" button.**
+3. **Make it publicly accessible.**
+4. **Make it count each device only once.**
