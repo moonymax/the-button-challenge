@@ -4,7 +4,6 @@
 > **build your own capability**, not to have done this challenge.
 
 **Who it's for:** beginners.
-**Success criteria:** you can set this up in **less than an hour**.
 
 ## Your goal
 
@@ -20,8 +19,9 @@ Build a website that anyone in the world can open from a link. The page has one 
 - Visitors should not have to sign up or log in.
 - It can be free. You shouldn't need to pay for anything.
 
-## You've won when
+## You've succeeded when
 
+- You built it in **less than an hour**.
 - You can send someone a link and it works on their device.
 - The number is the same for everyone and survives closing the page.
 - Clicking from the same device switches between counted and not counted, so one device can never add more than one, even when using a different browser.
@@ -29,5 +29,5 @@ Build a website that anyone in the world can open from a link. The page has one 
 ## Hints for the very beginners
 
 1. **Split up the problem.** Create the button first, and then make it so that other people interact with the "same" button.
-2. **Make it available publicly via a link.**
+2. **Make it publicly accessible.**
 3. **Make it count each device only once.**
