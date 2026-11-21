@@ -1,43 +1,32 @@
-# The Button Challenge
+# The One-Button Challenge
 
-> **Heads-up:** an AI assistant like Claude can build this in a matter of minutes.
-> That is not the point. The goal is to **build your own capability**, not to have
-> finished this challenge. Use AI to learn and to get unstuck, but make sure you
-> understand every piece you ship.
+> **Heads-up:** Claude can build this in a matter of minutes. So the goal is to
+> **build your own capability**, not to have done this challenge.
 
-## The challenge
+**Who it's for:** beginners.
+**Success criteria:** you can set this up in **less than an hour**.
 
-Build a web page with **one button** and a **counter**.
+## Your goal
 
-- Everyone who opens the page sees the **same** button and the **same** counter.
-- When someone presses the button, the counter goes up, for **everyone**.
-- Each device can only count **once**. Pressing again from the same device does not
-  raise the counter.
-- The page is reachable for anyone through a **public link**.
+Build a website that anyone in the world can open from a link. The page has one button and a number. When someone clicks the button, the number goes up by one, and everyone who visits sees the same number. Each device can only add one click. If someone clicks again, their click is taken back and the number goes down by one. Clicking a third time adds it back, and so on, like a "like" button.
 
-That's it. Stack, language and hosting are your choice.
+**Example:** You open the site and see "42." You click and it says "43." Your friend opens the link on their phone and also sees "43." They click, and now it's "44" for both of you. You click again, and it drops to "43," because your click was undone.
 
-## Who it's for
+## Rules
 
-Beginners. You don't need prior web or backend experience to attempt it.
+- No AI tools: no ChatGPT, Claude, Copilot, or anything similar.
+- Google, YouTube, tutorials, and forums are all allowed.
+- Visitors should not have to sign up or log in.
+- It can be free. You shouldn't need to pay for anything.
 
-## Success criteria
+## You've won when
 
-You can set this up in **less than an hour**:
+- You can send someone a link and it works on their device.
+- The number is the same for everyone and survives closing the page.
+- Clicking from the same device switches between counted and not counted, so one device can never add more than one, even when using a different browser.
 
-1. You send someone the link.
-2. They press the button on their device.
-3. You see the counter go up on yours.
-4. They press it again, and the counter does **not** go up.
+## Hints for the very beginners
 
-## Hints
-
-Stuck? Try these in order.
-
-1. **Split up the problem.** Create the button first, so it counts on your own screen.
-   Then make it so that other people interact with the "same" button: the count has to
-   live somewhere all visitors share, not only in one browser.
-2. **Make it available publicly via a link.** Put it online so someone else can open it
-   from their own device.
-3. **Make it count each device only once.** Find a way to recognise a device that has
-   already pressed the button, and ignore its later presses.
+1. **Split up the problem.** Create the button first, and then make it so that other people interact with the "same" button.
+2. **Make it available publicly via a link.**
+3. **Make it count each device only once.**
