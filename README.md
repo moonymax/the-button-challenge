@@ -1,7 +1,9 @@
 # The One-Button Challenge
 
 > **Heads-up:** Claude can build this in a matter of minutes. So the goal is to
-> **build your own capability**, not to have done this challenge.
+> **build your own capability**, not to have done this challenge. Don't let those
+> minutes fool you: if you are a complete beginner, this can take you **several
+> weeks**, and that is normal.
 
 **Who it's for:** beginners.
 
