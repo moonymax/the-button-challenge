@@ -23,10 +23,11 @@ Build a website that anyone in the world can open from a link. The page has one 
 
 ## You've succeeded when
 
-- You built it in **less than an hour**.
 - You can send someone a link and it works on their device.
 - The number is the same for everyone and survives closing the page.
 - Clicking from the same browser switches between counted and not counted, so one browser can never add more than one, even after reloading or closing the page. A different browser (or a private window) may count as a new visitor; that is fine.
+
+**Why aim for one hour?** Once you can build this in under an hour, you have a decent familiarity with the request–response model between a client and a server, and with basic DOM interactions. Modern frameworks like Next.js hide a lot of these details, but they also make it much, much easier to write real applications.
 
 ## Hints for the very beginners
 
